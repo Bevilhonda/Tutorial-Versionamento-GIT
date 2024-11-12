@@ -10,7 +10,7 @@
 
 ### Alguns dos principais comandos básicos são:
 
-- **`git init`** ☑️ - Inicializa um novo repositório Git.
+☑️ **`git init`** - Inicializa um novo repositório Git.
 - **`git add .`** - Adiciona todas as alterações à área de stage.
 - **`git commit -m "mensagem"`** - Cria um commit com uma mensagem.
 - **`git branch`** - Exibe as branches.
