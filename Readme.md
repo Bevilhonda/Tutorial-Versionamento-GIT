@@ -11,12 +11,12 @@
 ### Alguns dos principais comandos básicos são:
 
 ☑️ **`git init`** - Inicializa um novo repositório Git.
-- **`git add .`** - Adiciona todas as alterações à área de stage.
-- **`git commit -m "mensagem"`** - Cria um commit com uma mensagem.
-- **`git branch`** - Exibe as branches.
-- **`git checkout -b nome_da_branch`** - Cria e muda para uma nova branch.
-- **`git merge nome_da_branch`** - Mescla outra branch.
-- **`git push origin nome_da_branch`** - Envia as mudanças para o repositório remoto.
-- **`git pull`** - Atualiza o repositório local.
-- **`git stash`** - Salva temporariamente as alterações.
-- **`git log`** - Mostra o histórico de commits.
+☑️ **`git add .`** - Adiciona todas as alterações à área de stage.
+☑️ **`git commit -m "mensagem"`** - Cria um commit com uma mensagem.
+☑️ **`git branch`** - Exibe as branches.
+☑️ **`git checkout -b nome_da_branch`** - Cria e muda para uma nova branch.
+☑️ **`git merge nome_da_branch`** - Mescla outra branch.
+☑️ **`git push origin nome_da_branch`** - Envia as mudanças para o repositório remoto.
+☑️ **`git pull`** - Atualiza o repositório local.
+☑️ **`git stash`** - Salva temporariamente as alterações.
+☑️ **`git log`** - Mostra o histórico de commits.
